@@ -1,0 +1,7 @@
+library\view\BookData.class
+library\view\BookForm.class
+library\model\Book.class
+library\main\Main.class
+library\view\BookForm$1.class
+library\database\Database.class
+library\view\BookData$1.class
